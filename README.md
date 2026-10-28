@@ -1,3 +1,9 @@
+# 準備
+LeRobot のインストールや SO-101 の組み立ては以下のページを参照。
+- [SO-101 Hugging Face](https://huggingface.co/docs/lerobot/so101)
+- [SO-Arm LeRobot Tutorial](https://wiki.seeedstudio.com/lerobot_so100m_new/)
+
+
 # データセットの作成
 「りんごジュース」を移動するデータを 20エピソード作成。
 同様に「コーヒー」、「チョコレート」も 20エピソードずつ作成。

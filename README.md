@@ -1,3 +1,13 @@
+# はじめに
+このページでは SO-101 を使って、3つのアイテム（りんごジュース、コーヒー、チョコレート）の中から、言語（テキスト）で指示したアイテムを移動するタスクを行うために使用した LeRobot のコマンドを紹介しています。LeRobot のコマンドを実行することによって、データ収集、モデルのトレーニング、推論の実行を行っているため、ソースコードはありません。
+
+# タスク設定
+3つのアイテム（りんごジュース、コーヒー、チョコレート）の中から、言語（テキスト）で指示したアイテムをつかんでタオルの上に置く。
+## 言語指示文
+- Grab the apple juice and put it on the black hand towel.
+- Grab the coffee and put it on the black hand towel.
+- Grab the chocolate and put it on the black hand towel.
+
 # 準備
 LeRobot のインストールや SO-101 の組み立ては以下のページを参照。
 - [SO-101 Hugging Face](https://huggingface.co/docs/lerobot/so101)

@@ -88,3 +88,9 @@ lerobot-record \
   --dataset.num_episodes=10 \
   --dataset.episode_time_s=60
 ```
+
+# 実行結果
+YouTube で、3つの指示文を与えた時の SO-101 の動画を公開しています。
+- [りんごジュース](https://youtu.be/aOVYX04V3Yw)
+- [コーヒー](https://youtu.be/9a4JDAuP--c)
+- [チョコレート](https://youtu.be/YUvaG4b-2h0)
